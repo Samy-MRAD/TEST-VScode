@@ -1,0 +1,10 @@
+# Ignorer les fichiers de cache Python
+__pycache__/
+
+# Ignorer les fichiers de configuration de VS Code
+.vscode/
+
+# Ignorer les fichiers egg-info et dist
+*egg-info*
+dist/
+
